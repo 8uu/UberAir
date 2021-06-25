@@ -1,42 +1,33 @@
 {
   "project_info": {
-    "project_number": "523491031128",
-    "firebase_url": "https://uberair.firebaseio.com",
-    "project_id": "uberair",
-    "storage_bucket": "uberair.appspot.com"
+    "project_number": "330150098209",
+    "project_id": "uberclone3-c5282",
+    "storage_bucket": "uberclone3-c5282.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:523491031128:android:9de0b9e04c2465b06fb22d",
+        "mobilesdk_app_id": "1:330150098209:android:9ac62d1bb9f52a2498fa60",
         "android_client_info": {
           "package_name": "com.example.uberAir"
         }
       },
       "oauth_client": [
         {
-          "client_id": "523491031128-503faj4q0b4acsm4bjfo6le64p85g6vo.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.uberAir",
-            "certificate_hash": "d96c327f7be04c38dec5859e18bed616aadad997"
-          }
-        },
-        {
-          "client_id": "523491031128-6rub3oss7e173lf2trpf950fjcehojpq.apps.googleusercontent.com",
+          "client_id": "330150098209-s3dg4tvdbo0590poi4e50h24h1vop842.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD4Hj4AOW2c3gaAYDnisT1JFtdNYlUX1UI"
+          "current_key": "AIzaSyCx01lqGijy_EVcIDGwl4NZdBaomVKluVM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "523491031128-6rub3oss7e173lf2trpf950fjcehojpq.apps.googleusercontent.com",
+              "client_id": "330150098209-s3dg4tvdbo0590poi4e50h24h1vop842.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
